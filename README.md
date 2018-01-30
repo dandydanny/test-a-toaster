@@ -14,6 +14,6 @@ A repository of ideas on how to test a common household electric bread toaster
 
 | Function | Test Case |
 | ------------------- | --------- |
-| No leakage of electrical current via cabinet |
+| No leakage of electrical current via cabinet | Measured voltage potential from toaster body to ground should be 0V. No current flow allowed |
 | Over-temp shutoff | Does toaster shut off when temperature reaches an unsafe level? |
 | Over-current shutoff | Should the toaster pull abnormally high current, does overcurrent protection disconnect toaster from power? |
