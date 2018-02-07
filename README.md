@@ -1,7 +1,7 @@
 # test-a-toaster
 A repository of ideas on how to test a common household electric bread toaster
 
-## Basic but Important Functions
+## Main Functions
 
 | Function | Test Case | Acceptable Value |
 | ---------| --------- | ---------------- |
