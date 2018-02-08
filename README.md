@@ -17,6 +17,7 @@ A repository of ideas on how to test a common household electric bread toaster
 | No leakage of electrical current via cabinet and controls | Measured voltage potential from toaster body to ground should be `0V`. No current flow allowed (`0μA`): can voltage and/or current be detected? | False |
 | Over-temp shutoff | Artificially create over-temp condition using combustable or very hot material. Does toaster shut off when temperature reaches an unsafe level? | True |
 | Over-current shutoff | Artificially create over-current condition by short circuiting current flow after protection circuitry: does overcurrent protection disconnect toaster from power? | True |
+| Exterior casing should not reach scalding temperatures | During normal toasting operation, external casing temperature should not exceed 44 °C (111 °F) | True |
 
 ## Usability
 
