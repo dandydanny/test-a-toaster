@@ -29,3 +29,5 @@ A repository of ideas on how to test a common household electric bread toaster
 
 | Function | Test Case | Acceptable Value |
 | -------- | --------- | ---------------- |
+| Case should withstand typical cleaning methods without damage | Wash exterior casing with dish detergent and Scotch Brite pads. Any visible damage? | False |
+| Case should keep its original appearance as unit ages | Perform accelerate age test (usage repetition, high temp conditions). Does the case discolor or warp? | False |
