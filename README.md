@@ -18,6 +18,7 @@ A repository of ideas on how to test a common household electric bread toaster
 | Over-temp shutoff | Artificially create over-temp condition using combustable or very hot material. Does toaster shut off when temperature reaches an unsafe level? | True |
 | Over-current shutoff | Artificially create over-current condition by short circuiting current flow after protection circuitry: does overcurrent protection disconnect toaster from power? | True |
 | Exterior casing should not reach scalding temperatures | During normal toasting operation, external casing temperature should not exceed 44 °C (111 °F) | True |
+| (Attached cord models) cord should not be easily damaged and separate from the unit, exposing user to hazards | Yank on cord with force; does the insulation become damaged and/or cord become detached? | False |
 
 ## Usability
 
