@@ -10,6 +10,11 @@ A repository of ideas on how to test a common household electric bread toaster
 | Ability to adjust degree of toast | Does toaster lightly brown the bread when set to low? Does it toast more when set to high? | True |
 | (Top load slice toasters) Toast ejection | Does the toaster elevate the bread for easy retrival after toasting is complete | True |
 
+## Fancy Features
+| Function | Test Case | Acceptable Value |
+| ---------| --------- | ---------------- |
+| Darkness adjustment reflects shade of toasted bread slices | Using the same darkness settings, toasting a thin slice of bread and thick slice of bread should yield similar darkness on toast | True |
+
 ## Safety Considerations
 
 | Function | Test Case | Acceptable Value |
