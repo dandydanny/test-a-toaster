@@ -32,6 +32,7 @@ A repository of ideas on how to test a common household electric bread toaster.
 | Accomodates common bread slice thickness | Bread slot should accept thick and thin bread slices | True |
 | Able to hold thin slices of bread at center | Mechanism to center thin slices of bread at equidistant between heater element on both sides | True |
 | Large crumbs (that are capable of burning and scorching) should be easily removable | Insert crumbs of various sizes and attempt to remove (via shaking upside down, or crumb tray removal). Can most crumbs be removed? | True |
+| Even toasting of bread | Toast a bread. Browned portion should be even with no patches of burns nor untoasted areas | True |
 
 ## Durability and Reliability
 
