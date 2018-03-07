@@ -40,3 +40,7 @@ A repository of ideas on how to test a common household electric bread toaster.
 | -------- | --------- | ---------------- |
 | Case should withstand typical cleaning methods without damage | Wash exterior casing with dish detergent and Scotch Brite pads. Any visible damage? | False |
 | Case should keep its original appearance as unit ages | Perform accelerate age test (usage repetition, high temp conditions). Does the case discolor or warp? | False |
+
+### About
+Daniel is a web developer seeking opportunities, beverage socials, and late-night taco runs.
+[https://dandydanny.github.io](https://dandydanny.github.io)
