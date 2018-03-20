@@ -14,6 +14,7 @@ A repository of ideas on how to test a common household electric bread toaster.
 | Function | Test Case | Acceptable Value |
 | ---------| --------- | ---------------- |
 | Darkness adjustment reflects shade of toasted bread slices | Using the same darkness settings, toasting a thin slice of bread and thick slice of bread should yield similar darkness on toast | True |
+| Ability to work with both frozen and non-frozen pastries | Toast a frozen and thawed version of the same pastry; toasting result should be similar between the two | True |
 
 ## Safety Considerations
 
