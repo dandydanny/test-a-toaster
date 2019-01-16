@@ -4,7 +4,7 @@ A repository of ideas on how to test a common household electric bread toaster.
 ## Sanity Check / Smoke Test
 
 | Function | Test Config | Expected Behavior | Acceptable Value |
-| ---------| --------- | ---------------- |
+| ---------| ----------- | ----------------- | ---------------- |
 | Sanity Check | Toaster powered and switched on | Bread compartment of the toaster gets warm, no dangerous effects (flame, sparks) observed | True |
 
 ## Main Functions
